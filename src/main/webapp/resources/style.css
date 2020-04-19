@@ -1,0 +1,65 @@
+
+.combatStatus {
+	color: black;
+}
+
+.combatStatus tbody tr th {
+	background-color: grey;
+}
+
+.console {
+	border: 3px solid black;
+}
+
+.console tbody tr th,td {
+	border: 1px solid black;
+}
+
+h1 {
+	text-align: center;
+}
+
+/*
+
+.combat_status_console tbody tr {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	overflow-x: auto;
+	overflow-y: auto;
+	word-wrap: break-word;
+	width: 50%;			
+}
+
+
+table {
+	border: 5px solid green;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th {
+	height: 50px;
+}
+
+.tableheader {
+	background-color: #4CAF50;
+	color: white;
+}
+
+.tableheader td {
+}
+
+.combatstatus {
+width: 100%; 
+height: 25%; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+*/
+
+

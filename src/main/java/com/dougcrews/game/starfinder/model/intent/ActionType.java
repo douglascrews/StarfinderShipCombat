@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.dougcrews.game.starfinder.model.intent;
 
@@ -11,16 +11,16 @@ package com.dougcrews.game.starfinder.model.intent;
  */
 public enum ActionType
 {
-	MOVE ("Move", "«M»"),
-	STANDARD ("Standard", "«S»"),
-	REACTION ("Reaction", "«R»"),
-	FULLROUND ("Full Round", "«F»");
-	
+	MOVE ("Move", "Â«MÂ»"),
+	STANDARD ("Standard", "Â«SÂ»"),
+	REACTION ("Reaction", "Â«RÂ»"),
+	FULLROUND ("Full Round", "Â«FÂ»");
+
 	private final String name;
 	private final String badge;
-	
+
 	// Constructors
-	
+
 	private ActionType(String name, String badge)
 	{
 		this.name = name;
@@ -28,12 +28,12 @@ public enum ActionType
 	}
 
 	// Getters & Setters
-	
+
 	public String getName()
 	{
 		return this.name;
 	}
-	
+
 	public String getBadge()
 	{
 		return this.badge;

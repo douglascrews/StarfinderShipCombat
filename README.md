@@ -3,7 +3,7 @@
 ## Description
 
 A better Homebrew ruleset for starship combat rules in the [Starfinder role playing game](https://paizo.com/starfinder/).
-- Starship combat happens on the same time scale as melee combat, so combatants may have to choose between firing missiles or repelling a hostile boarding party.
+- Starship combat happens on the same time scale as melee combat, so sending a boarding party to invade the enemy ship is a viable option.
 - Starships are built from standard components, which generally provide more capability and range with additional similar components.
 - For example, a single Communications Array component provides +1 to dice rolls, and capability out to Short Range. Adding a second provides +2 to rolls, and extends range out to Medium.
 - Targeting of individual components is a valid tactic, to blind your enemy or take away their weapons or even Life Support.
@@ -14,7 +14,7 @@ A better Homebrew ruleset for starship combat rules in the [Starfinder role play
 
 This is a work in progress. Not all rules have been implemented, but what is there is generally functional.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)

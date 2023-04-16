@@ -9,7 +9,12 @@ A better Homebrew ruleset for starship combat rules in the [Starfinder role play
 - Targeting of individual components is a valid tactic, to blind your enemy or take away their weapons or even Life Support.
 - Shields and Armor provide distinct benefits against different types of weapons, and different types of weapons are less or more effective against Shields, Armor, and Hull.
 - Most actions have one or more Reactions that the opposing ship can take. Being targeted by an attempt to inject a virus into your computer? Turn it back on them, and let the best hacker win!
-- More fun options for Pilots and Captains than the standard rules allow.
+- More fun options for Pilots, Captains, Engineers, and Gunners than the standard rules allow.
+- Your ship can assist you, or even take actions on its own. It's not as good as an actual crewmember, but it can do most things they can.
+- Bonuses for actions that match the standard Strength/Dexterity/Constitution/Intelligence/Wisdom/Charisma attributes of the crew members.
+- Missiles can be either fire-and-forget (but if they lose Target Lock, they're gone), or Guided by the more powerful targeting power of the ship that fired them.
+- Stealth ship components keep your enemy from even *detecting* you, much less *targeting* you. But the power cost means that you won't have much in the way of Armor, Shields, or other components.
+- Rules for rerouting power between components, repairing broken components in the middle of combat, and overloading weapons for a risky but powerful boost.
 - Simplified spatial rules which only involve distance between ships and the intents of the pilots (i.e., get closer, run away, keep current distance).
 
 This is a work in progress. Not all rules have been implemented, but what is there is generally functional.

@@ -2,12 +2,17 @@
 
 ## Description
 
-If you're reading this, you either have too much time to read through random GitHub accounts, or I've given you this as a sample of my coding style. Either way, **Welcome!**
+A better Homebrew ruleset for starship combat rules in the [Starfinder role playing game](https://paizo.com/starfinder/).
+- Starship combat happens on the same time scale as melee combat, so combatants may have to choose between firing missiles or repelling a hostile boarding party.
+- Starships are built from standard components, which generally provide more capability and range with additional similar components.
+- For example, a single Communications Array component provides +1 to dice rolls, and capability out to Short Range. Adding a second provides +2 to rolls, and extends range out to Medium.
+- Targeting of individual components is a valid tactic, to blind your enemy or take away their weapons or even Life Support.
+- Shields and Armor provide distinct benefits against different types of weapons, and different types of weapons are less or more effective against Shields, Armor, and Hull.
+- Most actions have one or more Reactions that the opposing ship can take. Being targeted by an attempt to inject a virus into your computer? Turn it back on them, and let the best hacker win!
+- More fun options for Pilots and Captains than the standard rules allow.
+- Simplified spatial rules which only involve distance between ships and the intents of the pilots (i.e., get closer, run away, keep current distance).
 
-- This project was created when I was disappointed in the starship combat rules in the [Starfinder role playing game](https://paizo.com/starfinder/) and thought I could make them better.
-- Whether I was correct or not, at some point I got too busy to continue with it, and set it aside for later. Much of the functionality remains undeveloped, but what is there is generally functional.
-- The game rules are likely unclear to the casual observer, but I would be happy to explain them to you at length if you are not careful.
-- Please keep in mind that this was a purely personal project, never intended to be made public outside of a few close gaming friends. I have exported it from my private Subversion repo and added this README.
+This is a work in progress. Not all rules have been implemented, but what is there is generally functional.
 
 ## Table of Contents (Optional)
 
@@ -29,28 +34,7 @@ See /src/test/java/com/dougcrews/game/starfinder/model/ship/ShipTest.java for ba
 
 ## License
 
-MIT License
-
-Copyright (c) 2019 Douglas Crews
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
----
+[GNU GPLv3](LICENSE.txt) (do what you like with it, but please don't distribute closed source versions without permission).
 
 ## Tests
 
